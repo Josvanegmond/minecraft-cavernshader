@@ -1,6 +1,10 @@
 # Cavern Shader Resource Pack #
 This little shader subtly throws the corners of blocks around a bit to give the world a more dynamic, caverny, retro-3d-style look. No more straight edges!
 
+## Requirements ##
+Minecraft 1.18+?  
+Works on Vanilla
+
 ## Install ##
 Place the CavernShader folder into your resourcepack folder, located in the `.minecraft` folder. You can find it by pressing `Resource Packs...` in the game options and press `Open  Pack Folder`. After you placed the CavernShader folder there, it should be available in the `Resource Packs...` list in your game.
 
